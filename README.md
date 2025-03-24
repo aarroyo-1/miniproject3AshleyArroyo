@@ -1,8 +1,3 @@
-'''
-INF601 - Programming in Python
-Assignment 3
-I, Ashley Guadalupe Tarin Arroyo , affirm that the work submitted for this assignment is entirely my own. I have not engaged in any form of academic dishonesty, including but not limited to cheating, plagiarism, or the use of unauthorized materials. I have neither provided nor received unauthorized assistance and have accurately cited all sources in adherence to academic standards. I understand that failing to comply with this integrity statement may result in consequences, including disciplinary actions as determined by my course instructor and outlined in institutional policies. By signing this statement, I acknowledge my commitment to upholding the principles of academic integrity.
-'''
 
 # miniproject3AshleyArroyo
 
@@ -11,3 +6,56 @@ flask --app flaskr init-db
 
 Run application
 flask  --app flaskr run
+
+### INF601 - Advanced Programming in Python
+### Ashley Guadalupe Tarin Arroyo
+### Mini Project 3
+
+
+# Mini Project 1
+
+Simple overview of use/purpose.
+
+## Description
+
+An in-depth paragraph about your project and overview of use.
+
+## Getting Started
+
+### Dependencies
+
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
+* List pip install instructions.
+
+### Installing
+
+* How/where to download your program
+* Any modifications needed to be made to files/folders
+
+### Executing program
+
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
+
+## Help
+
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
+
+## Author & Contact Information
+
+
+* Author: Ashley Guadalupe Tarin Arroyo
+* Contact Info: ~~Not available~~
+
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [profzeller](https://github.com/profzeller/miniproject3)
